@@ -19,9 +19,9 @@ scaling, and curve customization.
    git clone https://github.com/hewad-mubariz/reactnative-curved-bottomtabs.git
 
 ### iOS
--```npm install```
--```cd ios && pod install && cd ..```
--```npm run ios ```
+- ```npm install```
+- ```cd ios && pod install && cd ..```
+- ```npm run ios ```
 ### Android 
 - ```npm install ```
 - ```npm run android```
